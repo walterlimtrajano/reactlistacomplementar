@@ -1,0 +1,29 @@
+/* TemperaturaEstacao.module.css */
+
+.verao {
+  background-color: orange;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.inverno {
+  background-color: lightblue;
+  color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.outono {
+  background-color: brown;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.primavera {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
